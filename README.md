@@ -4,7 +4,7 @@
 <h4 align="left">I'm a Frontend Web Developer🧊</h4>
 
 - :school: &nbsp;I'm currently studying at **[Akademia
-Finansów i Biznesu Vistula](http://alatoo.edu.kg/#gsc.tab=0)**
+Finansów i Biznesu Vistula](https://vistula.edu.pl/)**
 - :speech_balloon: &nbsp;I have elementary development experience
 - :airplane: &nbsp;We can talk more in **[Telegram](https://t.me/danik3422)**
 
